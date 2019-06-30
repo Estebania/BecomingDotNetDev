@@ -1,6 +1,6 @@
 using System;
 
-namespace EcCoach.Models
+namespace EcCoach.Web.Models
 {
     public class ErrorViewModel
     {
